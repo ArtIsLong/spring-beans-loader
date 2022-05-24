@@ -1,5 +1,7 @@
 # 简介
 
+Spring Bean的CRUD
+
 该项目主要参考MyBatis中MapperScan的功能，可通过自定义注解、标志类、标志接口加载Bean，使扩展Spring框架更加便利。
 
 - 源码地址
